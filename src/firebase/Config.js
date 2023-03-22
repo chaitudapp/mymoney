@@ -3,22 +3,14 @@ import 'firebase/compat/firestore'
 import 'firebase/compat/auth'
 
 const firebaseConfig = {
-
-    apiKey: "AIzaSyBZA8nByoXWrKQblV9TVqRSqO-ZE-uXH_w",
-  
-    authDomain: "chaitu-project-plan.firebaseapp.com",
-  
-    projectId: "chaitu-project-plan",
-  
-    storageBucket: "chaitu-project-plan.appspot.com",
-  
-    messagingSenderId: "505134212297",
-  
-    appId: "1:505134212297:web:7c535e71680b1f05f11918",
-  
-    measurementId: "G-E4K4TG1PMC"
-  
-  };
+  apiKey: "AIzaSyDFI0HQ03OfktFb5Rxq9V6pk6ybY_TTTgE",
+  authDomain: "chaitu-project-65423.firebaseapp.com",
+  projectId: "chaitu-project-65423",
+  storageBucket: "chaitu-project-65423.appspot.com",
+  messagingSenderId: "776540787186",
+  appId: "1:776540787186:web:cf0fd1791c24e37f221b6b",
+  measurementId: "G-2ME0QZWQ30"
+};
 
 
   firebase.initializeApp(firebaseConfig)
